@@ -1,3 +1,0 @@
-whitebox
-osgeo.gdal
-numpy
