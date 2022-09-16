@@ -1,3 +1,4 @@
 whitebox
-osgeo
+gdal
+gdal_array
 numpy
