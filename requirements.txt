@@ -1,4 +1,3 @@
 whitebox
 gdal
-gdal_array
 numpy
