@@ -1,3 +1,3 @@
-whitebox-tools==2.0.0
+whitebox-python==2.1.4
 osgeo==3.4.1
 numpy==1.23.2
