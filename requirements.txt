@@ -1,3 +1,3 @@
 whitebox
-gdal
+osgeo.gdal
 numpy
