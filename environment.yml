@@ -1,8 +1,0 @@
-name: wbt
-channels:
-  - defaults
-dependencies:
-  - python
-  - whitebox
-  - jupyter
-  - gdal
